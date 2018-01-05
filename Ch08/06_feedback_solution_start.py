@@ -9,7 +9,7 @@ from tkinter import messagebox
 
 class Feedback:
     def __init__(self, master):
-        master.title("Explore California Feedback")
+        master.title("Explore California Feedback!")
         master.resizable(False,False)
         master.configure(background='#e1d8b9')
 
